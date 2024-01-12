@@ -1,5 +1,5 @@
 # SQL-Query
-
+## Database Schema
 ![image](https://github.com/danifuij/SQL-Query/assets/124475097/01c8c417-0ee1-4c1f-a8eb-16e1a64fc826)
 
 **Deals table**
